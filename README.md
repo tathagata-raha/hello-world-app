@@ -1,5 +1,15 @@
 # Hello-world-app
 
+Technologies used:
+
+- Flask
+- Express.js
+- MongoDB
+- Docker
+- scikit-learn
+
+I have created some basic applications for each of the chosen 5 technologies. Below I have described the functionalities of my applications, how to run the applications, a brief history and explanation of each of these technologies, how they perform comparatively to ohers and best resources to learn these technologies.
+
 The blog for this repository is available [here](https://deepnote.com/@tathagata-raha/hello-world-app-dH5kv5SnTgeTTBCBtf-tSQ). In order to run the code, you need to clone the repository. Clone the repository by entering the following command:
 
 `git clone https://github.com/tathagata-raha/hello-world-app`
